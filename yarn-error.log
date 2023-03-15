@@ -1,0 +1,32 @@
+Arguments: 
+  /Users/ankit/.nvm/versions/node/v18.13.0/bin/node /usr/local/bin/yarn add adminjs
+
+PATH: 
+  /Users/ankit/.rvm/gems/ruby-3.0.0/bin:/Users/ankit/.rvm/gems/ruby-3.0.0@global/bin:/Users/ankit/.rvm/rubies/ruby-3.0.0/bin:/Users/ankit/.nvm/versions/node/v18.13.0/bin:/Users/ankit/Flutter/flutter/bin:/Users/ankit/opt/miniconda3/bin:/Users/ankit/opt/miniconda3/condabin:/opt/homebrew/bin:/opt/homebrew/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Applications/VMware Fusion Tech Preview.app/Contents/Public:/usr/local/go/bin:/Library/Apple/usr/bin:/Users/ankit/.rvm/bin
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  18.13.0
+
+Platform: 
+  darwin arm64
+
+Trace: 
+  Error: getaddrinfo ENOTFOUND registry.yarnpkg.com
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26)
+
+npm manifest: 
+  {
+    "name": "admintest",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
